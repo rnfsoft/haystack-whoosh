@@ -19,7 +19,7 @@ et-xmlfile==1.0.1
 gitdb2==2.0.3
 GitPython==2.1.7
 gunicorn==19.7.1
-httpie==0.9.9
+httpie==1.0.3
 idna==2.6
 itypes==1.1.0
 jdcal==1.4
